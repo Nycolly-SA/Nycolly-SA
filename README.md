@@ -1,16 +1,13 @@
-## Hi there 👋
+### Olá! 👋 
+![Status](https://img.shields.io/badge/Status-buscando_estágio-blue)
 
-<!--
-**Nycolly-SA/Nycolly-SA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Nycolly e estou cursando Engenharia de Software. Tenho interesse na área de dados e atualmente estou desenvolvendo projetos pessoais para aprimorar minhas habilidades e meu aprendizado!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias que estou estudando
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=databricks&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
+![Excel](https://custom-icon-badges.demolab.com/badge/Microsoft_Excel-217346?logo=microsoftt-excel&logoColor=fff)
+![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
